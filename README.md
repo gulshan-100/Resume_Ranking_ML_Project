@@ -68,6 +68,3 @@ To set up the project locally, follow these steps:
 - [Flask](https://flask.palletsprojects.com/) for the web framework.
 - [Scikit-learn](https://scikit-learn.org/) for machine learning functionalities.
 - [Pandas](https://pandas.pydata.org/) for data manipulation.
-
-## Contact
-For any inquiries, please contact [your-email@example.com].
